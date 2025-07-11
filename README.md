@@ -28,5 +28,5 @@ A frontend-focused **Food Delivery Web Application** with basic MongoDB integrat
 - 💾 Data stored using MongoDB (no full backend/API)
 
 ---
-
+Demo Link: https://new-food-devlivery-app.vercel.app
 ---
