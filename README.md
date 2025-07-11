@@ -1,7 +1,7 @@
 # 🍽️ Food Delivery Web App – Walkthrough
----
+
 Demo Link: https://new-food-devlivery-app.vercel.app
----
+
 
 A frontend-focused **Food Delivery Web Application** with basic MongoDB integration. The app supports three user roles:
 
