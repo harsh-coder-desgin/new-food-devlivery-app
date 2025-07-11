@@ -1,36 +1,62 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# 🍽️ Food Delivery Web App – Walkthrough
 
-## Getting Started
+A frontend-focused **Food Delivery Web Application** with basic MongoDB integration. The app supports three user roles:
 
-First, run the development server:
+- 🧑‍🍳 Restaurant Owners  
+- 👤 Customers  
+- 🚚 Delivery Partners
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+---
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🧰 Tech Stack
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+- **Frontend**: Next.js, Tailwind CSS  
+- **Database**: MongoDB (directly used, no custom backend)  
+- **Hosting**: Vercel
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+---
 
-## Learn More
+## ⚙️ Features
 
-To learn more about Next.js, take a look at the following resources:
+- 👥 Role-based Dashboards (Restaurant, Customer, Delivery)
+- 🛒 Cart System with Order Placement & Billing
+- ✏️ Add, Edit, Delete Food Items (for restaurants)
+- 🔍 Filter & Search Restaurants
+- 🔐 Login & Signup for all roles
+- 📦 Order Tracking & Status Updates
+- 🧹 Cart clears after order
+- 💾 Data stored using MongoDB (no full backend/API)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+---
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## 🧑‍🍳 Restaurant Dashboard
 
-## Deploy on Vercel
+### 🔐 Login & Manage Menu
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+![Restaurant Dashboard](https://github.com/user-attachments/assets/208c2d30-0d54-4678-b68d-d99995f7fed4)
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+---
+
+## 👤 User Dashboard
+
+### 🏠 Home, Explore & Cart
+
+![User Cart](https://github.com/user-attachments/assets/deaf2fcb-61ca-49a6-9360-1c2aef100e63)
+
+---
+
+## 🚚 Delivery Dashboard
+
+### 📋 Order List & Status Update
+
+![Order List](https://github.com/user-attachments/assets/60bf7b9a-dd6b-4db7-8762-a84f6e1e8285)
+
+---
+
+
+## 📌 Note
+
+This is a **full-stack** project using **Next.js API routes** for backend logic. The frontend interacts with MongoDB through custom API endpoints like:
+
+
+---
