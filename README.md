@@ -54,19 +54,19 @@ A modern food delivery platform supporting three distinct user roles: **Restaura
 - Home Page – Restaurant Listings
  
   <img width="1918" height="903" alt="Screenshot 2025-07-17 190055" src="https://github.com/user-attachments/assets/929019f5-040e-44b8-bcf9-a078a155720c" />
- 
+ ---
 - Restaurant Dashboard – Menu Management
   
    <img width="1918" height="902" alt="Screenshot 2025-07-17 190135" src="https://github.com/user-attachments/assets/a1dec83d-6481-4c7b-9c09-c63c17a3ab88" />
-
+---
 - Customer Dashboard – Cart & Orders
   
    <img width="1918" height="901" alt="Screenshot 2025-07-17 190605" src="https://github.com/user-attachments/assets/94559ec7-d832-44b4-bf12-2b0f0b623401" />
-
+---
 - Delivery Dashboard – Order Fulfillment
   
   <img width="1897" height="885" alt="Screenshot 2025-07-17 190714" src="https://github.com/user-attachments/assets/b224edde-f7d5-49e8-9a90-71ed92fd09a7" />
-
+---
 
 ---
 
