@@ -68,8 +68,6 @@ A modern food delivery platform supporting three distinct user roles: **Restaura
   <img width="1897" height="885" alt="Screenshot 2025-07-17 190714" src="https://github.com/user-attachments/assets/b224edde-f7d5-49e8-9a90-71ed92fd09a7" />
 ---
 
----
-
 ## 📁 Folder Structure (Simplified)
 
 - src/
